@@ -1,0 +1,9 @@
+gymnasium
+tensorflow
+torch
+numpy
+matplotlib
+imageio
+stable-baselines3
+huggingface_hub
+pyvirtualdisplay
